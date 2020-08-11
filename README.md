@@ -1,1 +1,1 @@
-# Honey-bee-heatlth-detection
+# Honey Bee Health Detection
