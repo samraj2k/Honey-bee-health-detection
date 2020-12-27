@@ -1,0 +1,29 @@
+{
+  "name": "honey-bee-health-detection",
+  "version": "1.0.0",
+  "description": "The model helps in classifying Honey bee health for intelligent hive monitoring.",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subhang23/Honey-bee-health-detection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subhang23/Honey-bee-health-detection/issues"
+  },
+  "homepage": "https://github.com/Subhang23/Honey-bee-health-detection#readme"
+}
