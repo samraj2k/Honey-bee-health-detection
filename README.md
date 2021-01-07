@@ -13,3 +13,7 @@ dataset and 94.81 percent on test dataset.
 
 ◦ Learnings: Image features extraction using Convolutional neural networks, Keras API, Gradient
 Descent, Backpropagation.
+
+The model is file: HoneyBeeHealthDetectionKeras.ipynb
+app.js file for Mobile App Javascript file
+best_model.h5 and new_model.h5 contains the final model
