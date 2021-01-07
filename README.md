@@ -8,8 +8,8 @@ hive monitoring.
 ◦ The project involved the use of Keras: the python deep learning API, and various other python libraries
 like scipy, pandas, numpy and matplotlib etc.
 
-◦ Trained the model on ”BeeImage” dataset and achieved an accuracy of 95.10 percent on training
-dataset and 94.81 percent on test dataset.
+◦ Trained the model on ”BeeImage” dataset and achieved an accuracy of :
+https://github.com/samraj2k/Honey-bee-health-detection/raw/master/Accuracy.jpg
 
 ◦ Learnings: Image features extraction using Convolutional neural networks, Keras API, Gradient
 Descent, Backpropagation.
